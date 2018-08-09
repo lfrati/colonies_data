@@ -1,6 +1,6 @@
 [{
 	"_id": "LFllPt6JlHZsySTNwTd",
-	"strain": "PAO1_WT_START_11",
+	"strain": "PAO1_WT_0_11",
 	"colonies": [
 		[
 			0.5588235294117646,
@@ -946,7 +946,7 @@
 },
 {
 	"_id": "LFllPu2Bn6bKBx6w2zO",
-	"strain": "PAO1_WT_START_11",
+	"strain": "PAO1_WT_0_11",
 	"colonies": [
 		[
 			0.39215686274509803,
@@ -1857,7 +1857,7 @@
 },
 {
 	"_id": "LFllPuajqGbPCugMneQ",
-	"strain": "PAO1_WT_START_11",
+	"strain": "PAO1_WT_0_11",
 	"colonies": [
 		[
 			0.47058823529411764,
@@ -2353,7 +2353,7 @@
 },
 {
 	"_id": "LFllPupOaEtWF-payqk",
-	"strain": "PAO1_WT_START_11",
+	"strain": "PAO1_WT_0_11",
 	"colonies": [
 		[
 			0.5490196078431373,
@@ -2989,7 +2989,7 @@
 },
 {
 	"_id": "LFllPv2Y2PLLB32eYuJ",
-	"strain": "PAO1_WT_START_11",
+	"strain": "PAO1_WT_0_11",
 	"colonies": [
 		[
 			0.46078431372549017,
@@ -3735,7 +3735,7 @@
 },
 {
 	"_id": "LFllPvHcZW-cvX0RgHO",
-	"strain": "PAO1_WT_START_11",
+	"strain": "PAO1_WT_0_11",
 	"colonies": [
 		[
 			0.5392156862745098,
@@ -4541,7 +4541,7 @@
 },
 {
 	"_id": "LFllPvRcwXejB3EsRGl",
-	"strain": "PAO1_WT_START_11",
+	"strain": "PAO1_WT_0_11",
 	"colonies": [
 		[
 			0.46405228758169936,
@@ -5752,7 +5752,7 @@
 },
 {
 	"_id": "LFllPvdbtYUWpnWFDWY",
-	"strain": "PAO1_WT_START_11",
+	"strain": "PAO1_WT_0_11",
 	"colonies": [
 		[
 			0.4477124183006536,
@@ -7208,7 +7208,7 @@
 },
 {
 	"_id": "LFllPvmzhrA6Y7YS8eh",
-	"strain": "PAO1_WT_START_11",
+	"strain": "PAO1_WT_0_11",
 	"colonies": [
 		[
 			0.5980392156862744,
@@ -9968,7 +9968,7 @@
 },
 {
 	"_id": "LFsJ4yt4B3dDhoP2tZO",
-	"strain": "PAO1_MUCRA1_START_8",
+	"strain": "PAO1_MUCRA1_0_8",
 	"colonies": [
 		[
 			0.27666666666666667,
@@ -10089,7 +10089,7 @@
 },
 {
 	"_id": "LFsJ4zAMzTpnic0KvU",
-	"strain": "PAO1_MUCRB1_START_12",
+	"strain": "PAO1_MUCRB1_0_12",
 	"colonies": [
 		[
 			0.28,
@@ -10345,7 +10345,7 @@
 },
 {
 	"_id": "LFsJ4zI7xlZadgG8Nrx",
-	"strain": "PAO1_MUCRB1_START_12",
+	"strain": "PAO1_MUCRB1_0_12",
 	"colonies": [
 		[
 			0.435,
@@ -10496,7 +10496,7 @@
 },
 {
 	"_id": "LFsJ4zM5mmx6dzqukfH",
-	"strain": "PAO1_MUCRA1_START_8",
+	"strain": "PAO1_MUCRA1_0_8",
 	"colonies": [
 		[
 			0.4716666666666667,
@@ -10602,7 +10602,7 @@
 },
 {
 	"_id": "LFsJ4zakuJOJHc6f2SF",
-	"strain": "PAO1_MUCRA1_START_8",
+	"strain": "PAO1_MUCRA1_0_8",
 	"colonies": [
 		[
 			0.355,
@@ -10708,7 +10708,7 @@
 },
 {
 	"_id": "LFsJ4zeShI-HRnKlNfI",
-	"strain": "PAO1_MUCRB1_START_12",
+	"strain": "PAO1_MUCRB1_0_12",
 	"colonies": [
 		[
 			0.6866666666666666,
@@ -22843,7 +22843,7 @@
 },
 {
 	"_id": "LGKJ2GxQ64rrzD-KSD3",
-	"strain": "PAO1_MUCRA1_START_10",
+	"strain": "PAO1_MUCRA1_0_10",
 	"colonies": [
 		[
 			0.5983333333333334,
@@ -25966,7 +25966,7 @@
 },
 {
 	"_id": "LGKJ2IJOV8XPeKNk_aE",
-	"strain": "PAO1_MUCRA1_START_10",
+	"strain": "PAO1_MUCRA1_0_10",
 	"colonies": [
 		[
 			0.675,
@@ -28765,7 +28765,7 @@
 },
 {
 	"_id": "LGKJ2I_r9bC5VyX9Vt1",
-	"strain": "PAO1_MUCRA1_START_10",
+	"strain": "PAO1_MUCRA1_0_10",
 	"colonies": [
 		[
 			0.845,
@@ -37183,7 +37183,7 @@
 },
 {
 	"_id": "LGLUBEwMjWkGr6jLWsT",
-	"strain": "PAO1_MUCRB1_START_8",
+	"strain": "PAO1_MUCRB1_0_8",
 	"colonies": [
 		[
 			0.645,
@@ -38607,7 +38607,7 @@
 },
 {
 	"_id": "LGLUBFx9xnMVmmu1HG1",
-	"strain": "PAO1_MUCRB1_START_8",
+	"strain": "PAO1_MUCRB1_0_8",
 	"colonies": [
 		[
 			0.585,
@@ -39524,7 +39524,7 @@
 },
 {
 	"_id": "LGLUBGAFlMym-elC5lW",
-	"strain": "PAO1_MUCRB1_START_8",
+	"strain": "PAO1_MUCRB1_0_8",
 	"colonies": [
 		[
 			0.545,
@@ -54115,7 +54115,7 @@
 },
 {
 	"_id": "LGUtf8dtMRC6pTT2bTh",
-	"strain": "PAO1_MUCRA1_START_12",
+	"strain": "PAO1_MUCRA1_0_12",
 	"colonies": [
 		[
 			0.255,
@@ -56382,7 +56382,7 @@
 },
 {
 	"_id": "LGUtf92trQKrRKxkLSD",
-	"strain": "PAO1_MUCRA1_START_12",
+	"strain": "PAO1_MUCRA1_0_12",
 	"colonies": [
 		[
 			0.22166666666666668,
@@ -58148,7 +58148,7 @@
 },
 {
 	"_id": "LGUtf9A6M2EZcOOjsLs",
-	"strain": "PAO1_MUCRA1_START_12",
+	"strain": "PAO1_MUCRA1_0_12",
 	"colonies": [
 		[
 			0.21833333333333332,
@@ -69564,7 +69564,7 @@
 },
 {
 	"_id": "LGzLAlZGDxhzkYihaMY",
-	"strain": "PAO1_MUCRB1_START_10",
+	"strain": "PAO1_MUCRB1_0_10",
 	"colonies": [
 		[
 			0.7983333333333333,
@@ -74021,7 +74021,7 @@
 },
 {
 	"_id": "LI_K6DUBIujGXZV80MV",
-	"strain": "PAO1_MUCRB1_START_10",
+	"strain": "PAO1_MUCRB1_0_10",
 	"colonies": [
 		[
 			0.7183333333333334,
@@ -75432,7 +75432,7 @@
 },
 {
 	"_id": "LI_K6Ekf2iPw5ph_VIm",
-	"strain": "PAO1_MUCRB1_START_10",
+	"strain": "PAO1_MUCRB1_0_10",
 	"colonies": [
 		[
 			0.7483333333333333,
@@ -79258,7 +79258,7 @@
 },
 {
 	"_id": "LI_eCv73GLVMiJk6UPB",
-	"strain": "PAO1_MUCRKO_START_8",
+	"strain": "PAO1_MUCRKO_0_8",
 	"colonies": [
 		[
 			0.125,
@@ -79659,7 +79659,7 @@
 },
 {
 	"_id": "LI_eCv93mWGiJbxILKr",
-	"strain": "PAO1_MUCRKO_START_8",
+	"strain": "PAO1_MUCRKO_0_8",
 	"colonies": [
 		[
 			0.48833333333333334,
@@ -80055,7 +80055,7 @@
 },
 {
 	"_id": "LI_eCvB-I4-0j3reS7k",
-	"strain": "PAO1_MUCRKO_START_8",
+	"strain": "PAO1_MUCRKO_0_8",
 	"colonies": [
 		[
 			0.24833333333333332,
@@ -86989,7 +86989,7 @@
 },
 {
 	"_id": "LIfbzwleS4ire-liwSL",
-	"strain": "PAO1_MUCRKO_START_10",
+	"strain": "PAO1_MUCRKO_0_10",
 	"colonies": [
 		[
 			0.21166666666666667,
@@ -90559,7 +90559,7 @@
 },
 {
 	"_id": "LIfbzxVhLOKBACnJXfA",
-	"strain": "PAO1_MUCRKO_START_10",
+	"strain": "PAO1_MUCRKO_0_10",
 	"colonies": [
 		[
 			0.35833333333333334,
@@ -91645,7 +91645,7 @@
 },
 {
 	"_id": "LIfbzx_rAavNgXXVFA5",
-	"strain": "PAO1_MUCRKO_START_10",
+	"strain": "PAO1_MUCRKO_0_10",
 	"colonies": [
 		[
 			0.61,
