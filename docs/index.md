@@ -8,4 +8,4 @@ The dataset contains images of colonies of bacteria manually labelled. Colonies 
 
 ### Example
 
-![Example](https://lapofrati.github.io/colonies_data/assets/labelled.png)
+![Example](https://lfrati.github.io/colonies_data/assets/labelled.png)
